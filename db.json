@@ -1,22 +1,21 @@
 {
   "customers": [
-{
-  "id": "1",
-  "token": "640feb49-c854-4a48-8789-db1332c0dc54",
-  "cpf": "05588651197",
-  "name": "W2 - Jefferson Xavier",
-  "email": "jeffexavier@gmail.com",
-  "phone": "61998800590",
-  "bornAt": "1997-05-28",
-  "forceUpdateData": true
-}
+  {
+    "id": "1",
+    "token": "640feb49-c854-4a48-8789-db1332c0dc54",
+    "cpf": "05588651197",
+    "name": "W2 - Jefferson Xavier",
+    "email": "jeffexavier@gmail.com",
+    "phone": "61998800590",
+    "bornAt": "1997-05-28",
+    "forceUpdateData": true
+  }
   ],
-    "token": [
-{
-  "id": "1",
-  "cnpj": "40821857000197"
-}
-  ],
+   "token":
+  {
+    "id": "1",
+    "cnpj": "40821857000197"
+  },
   "profile": {
     "name": "jeffexavier"
   }
