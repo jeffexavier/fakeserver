@@ -11,6 +11,12 @@
   "forceUpdateData": true
 }
   ],
+    "token": [
+{
+  "id": "1",
+  "cnpj": "40821857000197"
+}
+  ],
   "profile": {
     "name": "jeffexavier"
   }
